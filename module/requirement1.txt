@@ -1,0 +1,5 @@
+tensorflow
+mediapipe
+google-generativeai
+aiobotocore
+streamlit
